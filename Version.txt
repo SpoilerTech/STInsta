@@ -1,1 +1,1 @@
-{'ver1':'1', 'ver2':'02', 'url':'https://github.com/SpoilerTech/STInsta'}
+{'ver1':'2', 'ver2':'02', 'url':'https://t.me/STinsta_official'}
